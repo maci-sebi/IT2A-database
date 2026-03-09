@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT2A-database", "IT2A-database\IT2A-database.csproj", "{6795BBC8-C8E6-4A28-AF78-B0F3CB932306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6795BBC8-C8E6-4A28-AF78-B0F3CB932306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6795BBC8-C8E6-4A28-AF78-B0F3CB932306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6795BBC8-C8E6-4A28-AF78-B0F3CB932306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6795BBC8-C8E6-4A28-AF78-B0F3CB932306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A18CF4-12A9-4ECE-BFB4-087E76BAD2BC}
+	EndGlobalSection
+EndGlobal
