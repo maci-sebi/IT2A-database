@@ -1,5 +1,5 @@
 # IT2A-database
-<h2>9/3/2026</h2><br>
+<h2>9/3/2026</h2>
 Dnes se mi povedlo vytvořit:
 <ul>
   <li>Kompletní XAML</li>
