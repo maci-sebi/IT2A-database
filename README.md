@@ -5,4 +5,3 @@ Dnes se mi povedlo vytvořit:
   <li>Kompletní XAML</li>
   <li>Nastavit GitHub repozitář</li>
 </ul>
-Projekt z druhého ročníku připravený na propojení s databází.
